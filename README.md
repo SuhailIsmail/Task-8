@@ -32,7 +32,7 @@ This Power BI project showcases a simple interactive sales dashboard using the *
 
 ## 📁 Files Included
 
-- `Cleaned_Online_Retail.csv` – Cleaned dataset used in the dashboard
+- `Cleaned_Online_Retail.xlsx` – Cleaned dataset used in the dashboard
 - `Sales_Dashboard_Insights.pptx` – PowerPoint summary of insights
 - `Sales_Dashboard.pbix` – Power BI dashboard file (optional)
 - `README.md` – Project documentation
