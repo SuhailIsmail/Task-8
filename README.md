@@ -7,8 +7,7 @@ This Power BI project showcases a simple interactive sales dashboard using the *
 
 ---
 ## 📸 Dashboard Preview
-
-![Dashboard Screenshot](link-to-your-screenshot.png)
+![Content Type by Rating](https://github.com/SuhailIsmail/Task-8/blob/main/dash.png?raw=true)
 
 ---
 
